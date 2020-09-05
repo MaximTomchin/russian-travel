@@ -1,0 +1,11 @@
+.lead__image-block {
+    margin: 64px auto 0;
+    width: 100%;  
+    display: grid;  
+}
+
+@media screen and (max-width: 767px) {
+    .lead__image-block {
+        margin: 40px auto 0;        
+    }
+  }

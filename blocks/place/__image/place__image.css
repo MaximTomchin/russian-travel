@@ -1,0 +1,12 @@
+.place__image {
+    width: 100%;
+    position: relative;
+}
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        width: calc(100% + 32px);
+        left: -16px;
+        right: -16px;
+    }
+}
