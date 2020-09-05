@@ -12,25 +12,25 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place {
-       grid-template-columns: 47.415% 49.139%; 
-       gap: 48px 32px; 
+        grid-template-columns: 47.415% 49.139%; 
+        gap: 48px 32px; 
     }
   }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place {
-       padding: 72px 0 0;
-       grid-template-columns: 47.223% 48.89%; 
-       gap: 48px 28px; 
+        padding: 72px 0 0;
+        grid-template-columns: 47.223% 48.89%; 
+        gap: 48px 28px; 
     }    
  }
 
  @media screen and (max-width: 767px) {
   .place {
-    margin-top: 48px;
-    grid-template-columns: 1fr;
-    gap: 32px;
-    padding: 0;
+      margin-top: 48px;
+      grid-template-columns: 1fr;
+      gap: 32px;
+      padding: 0;
     }
 
     .place:first-of-type {

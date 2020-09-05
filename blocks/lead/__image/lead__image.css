@@ -2,6 +2,7 @@
     width: 100%;    
     position: relative; 
     min-height: 615px;
+    object-fit: cover;
   }
 
 

@@ -6,3 +6,5 @@
 
 Работа написана на HTML и СSS с использованием flex и grid-layout и адаптирована с помощью медиа-запросов. 
 
+[Ссылка на проект в GitHub Pages](https://maximtomchin.github.io/russian-travel/)
+
