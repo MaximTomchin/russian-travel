@@ -15,19 +15,14 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__image {
-    min-height: 480px;
-    width: calc(100% + 48px);
-    left: -24px;
+    min-height: 480px;    
   }
 }
 
 
 @media screen and  (max-width: 767px) {
   .lead__image {
-    min-height: 200px;
-    width: calc(100% + 32px);
-    left: -18px;
-    right: -14px;   
+    min-height: 200px;    
   }
 }
 
