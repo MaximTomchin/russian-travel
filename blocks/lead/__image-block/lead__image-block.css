@@ -6,6 +6,12 @@
     grid-template-columns: 1fr; 
 }
 
+@media screen and (min-width: 766px) and (min-width: 1279px) {
+    .lead__image-block {
+        margin: 56px auto 0;        
+    }
+  }
+
 @media screen and (max-width: 767px) {
     .lead__image-block {
         margin: 40px auto 0;        
