@@ -1,7 +1,9 @@
 .lead__image-block {
     margin: 64px auto 0;
     width: 100%;  
-    display: grid;  
+    display: grid; 
+    gap: 8px;
+    grid-template-columns: 1fr; 
 }
 
 @media screen and (max-width: 767px) {
