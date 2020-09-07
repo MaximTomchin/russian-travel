@@ -2,14 +2,13 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    display: flex;
-    gap: 18px;
+    display: flex;    
 }
 
 @media screen and  (max-width: 767px) {
     .footer__links {
       flex-direction: column;
       justify-content: space-between;
-      gap: 32px;
+      gap: 32px;      
     }
   }
