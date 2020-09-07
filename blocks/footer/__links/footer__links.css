@@ -9,6 +9,7 @@
     .footer__links {
       flex-direction: column;
       justify-content: space-between;
+      display: grid;
       gap: 32px;      
     }
   }
