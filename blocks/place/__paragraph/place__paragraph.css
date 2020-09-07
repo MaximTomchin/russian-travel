@@ -16,7 +16,11 @@
 
 @media screen and (max-width: 767px) {
   .place__paragraph {
-      margin: 0 16px;      
+      margin: 24px 16px 0;      
+  }
+  
+  .place__paragraph:first-of-type {
+    margin: 0 16px;
   }
 }
 
